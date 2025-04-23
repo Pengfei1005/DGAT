@@ -1,2 +1,2 @@
 # DGAT
-This is the pytorch implementation of the DGTA model.
+This is the pytorch implementation of the DGAT model.
